@@ -16,6 +16,42 @@ Feel free to work on this and add to the descriptions.
 ______________________________________________
 PARTIAL DROP
 ______________________________________________
+## Contribute to Descriptions Without Git or Cloning (Recommended for Most People)
+
+This is the simplest way—no command line needed! Everything happens in your web browser. I have added both an Open Office and Excel compatible file with hyperlinks to simplify the process. 
+
+1. **Fork the repository**  
+   - Visit the main repository page.  
+   - Click the **Fork** button (top-right corner).  
+   - This creates your own copy of the repo.
+
+2. **Go to the `(YourDesiredFormat)EpsteinMedia.csv` file in your fork**  
+   - In your forked repo, navigate to the `(YourDesiredFormat)EpsteinMedia.csv` file.
+
+3. **Edit or upload the updated file**  
+   - **Option A: Edit directly in browser**  
+     Click the pencil icon (✏️ Edit this file).  
+     Make your changes to the **Description** column.  
+   - **Option B: Upload an updated file**  
+     Download the current CSV → edit locally (in Excel, Google Sheets, etc.) → go to "Add file" → "Upload files" → drag/drop your updated CSV.
+
+4. **Commit your changes**  
+   - Scroll to the bottom of the page.  
+   - Add a commit message (e.g., "Added descriptions for 3 videos").  
+   - Click **Commit changes**.
+
+5. **Open a Pull Request**  
+   - GitHub will show a banner with "Contribute" → click **Open pull request**.  
+   - Add a title and description of your changes.  
+   - Click **Create pull request**.
+
+That's it! The repo owner will review and merge your updates.
+
+Thank you for contributing!
+
+
+
+______________________________________________
 Here's a Markdown table based on the provided partial CSV data. All URLs are hyperlinked via their filenames for easy clicking. I've added an empty **Description** column (for future notes on GitHub). Coordinates in the location field are converted to clickable Google Maps links where possible (using ISO 6709 format; altitude ignored for map).
 
 Note: This is a **partial** dataset (truncated in source). Many entries are placeholders or PDFs; media files (videos/audio) have metadata where available. Blank fields are shown as "-".
@@ -189,6 +225,7 @@ Note: This is a **partial** dataset (truncated in source). Many entries are plac
 | [EFTA01133546.m4v](https://www.justice.gov/epstein/files/DataSet%209/EFTA01133546.m4v) | video/mp4 | 34.21 | 2013-09-06T20:04:50.000000Z | - |  |
 | [EFTA01137029.m4v](https://www.justice.gov/epstein/files/DataSet%209/EFTA01137029.m4v) | video/mp4 | 2.88 | 2013-03-20T22:47:54.000000Z | - |  |
 | [EFTA01132164.mov](https://www.justice.gov/epstein/files/DataSet%209/EFTA01132164.mov) | video/quicktime | 13.42 | 2013-12-07T22:22:44-0500 | [View on Google Maps](https://www.google.com/maps/search/?api=1&query=26.3057,-80.1310) |  |
+
 
 
 
