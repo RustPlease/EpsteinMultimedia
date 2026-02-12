@@ -1,10 +1,10 @@
 ## Epstein Library Video Scraper
 
-The DOJ has deliberatly made it nearly impossible to view many multi-media files in the Congressionally mandated Epstein Library. 
+The DOJ has deliberatly made it nearly impossible to view many multimedia files in the Congressionally mandated Epstein Library. 
 The purpose of this project it to allow the average person to browse the media.
-The uploaded the multi media files as a .pdf, illegally in my personal opinion.
+The DOJ uploaded the multi media files as a .pdf, illegally in my personal opinion.
 
-We are setting them free one step at a time. 
+We are setting the files free one step at a time. 
 
 Contains a hybrid human/automated script to scrap Epstien Library multimedia files. 
 
@@ -224,6 +224,7 @@ Note: This is a **partial** dataset (truncated in source). Many entries are plac
 | [EFTA01133546.m4v](https://www.justice.gov/epstein/files/DataSet%209/EFTA01133546.m4v) | video/mp4 | 34.21 | 2013-09-06T20:04:50.000000Z | - |  |
 | [EFTA01137029.m4v](https://www.justice.gov/epstein/files/DataSet%209/EFTA01137029.m4v) | video/mp4 | 2.88 | 2013-03-20T22:47:54.000000Z | - |  |
 | [EFTA01132164.mov](https://www.justice.gov/epstein/files/DataSet%209/EFTA01132164.mov) | video/quicktime | 13.42 | 2013-12-07T22:22:44-0500 | [View on Google Maps](https://www.google.com/maps/search/?api=1&query=26.3057,-80.1310) |  |
+
 
 
 
