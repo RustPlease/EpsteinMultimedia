@@ -1,0 +1,25 @@
+# LibreOffice / OpenOffice temporary lock files (the main one you encountered)
+.~lock.*
+*.~lock*
+
+# General LibreOffice/OpenOffice backups and autosaves
+*.bak
+*.backup
+*.sav
+.~*.sav
+
+# Microsoft Excel / Office temporary files (if anyone uses Excel on Windows/macOS)
+~$*.xls*
+~$*.xlsx
+~$*.xlsm
+*.tmp
+Thumbs.db          # Windows thumbnail cache (often appears in folders with spreadsheets)
+
+# macOS system files (you already have .DS_Store, but add these for completeness)
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Other common office suite cruft
+*.~*
+*~
