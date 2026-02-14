@@ -1,3 +1,9 @@
+**Created and maintained by [Jared Maxwell](https://MaxwellInternational.ai)** · [@ThatRetiredDude](https://x.com/ThatRetiredDude)
+
+[![X Follow](https://img.shields.io/twitter/follow/ThatRetiredDude?style=social)](https://x.com/ThatRetiredDude)
+
+---
+
 ## Epstein Library Video Scraper
 
 The DOJ has deliberatly made it nearly impossible to view many multimedia files in the Congressionally mandated Epstein Library. 
@@ -227,9 +233,9 @@ Note: This is a **partial** dataset (truncated in source). Many entries are plac
 | [EFTA01137029.m4v](https://www.justice.gov/epstein/files/DataSet%209/EFTA01137029.m4v) | video/mp4 | 2.88 | 2013-03-20T22:47:54.000000Z | - |  |
 | [EFTA01132164.mov](https://www.justice.gov/epstein/files/DataSet%209/EFTA01132164.mov) | video/quicktime | 13.42 | 2013-12-07T22:22:44-0500 | [View on Google Maps](https://www.google.com/maps/search/?api=1&query=26.3057,-80.1310) |  |
 
+---
 
-
-
+© 2026 Jared Maxwell — Epstein Multimedia Crowdsource Investigation · [@ThatRetiredDude](https://x.com/ThatRetiredDude)
 
 
 
